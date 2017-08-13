@@ -1,2 +1,2 @@
-# svg-emoji2-extension.github.io
+# SVG Emoji2 Extension
 The website.
